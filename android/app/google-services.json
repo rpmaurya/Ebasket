@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774290280581",
+    "project_id": "ebasket-aab96",
+    "storage_bucket": "ebasket-aab96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774290280581:android:16108f9e8e5e9c7b3bd9ec",
+        "android_client_info": {
+          "package_name": "com.example.bbd_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBKwe7BDjZ1DZ2RE8ofA0KUsDb7ij4FqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
